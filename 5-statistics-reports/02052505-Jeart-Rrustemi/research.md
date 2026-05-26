@@ -63,3 +63,18 @@ However, experts also suggest that AI will not fully replace software engineers.
 **Interpretation:**  
 AI will transform software engineering rather than replace it.
 
+---
+
+## 6. Challenges and Risks of AI in Software Engineering
+
+Although AI provides many advantages in software engineering, it also introduces several challenges and risks. One major concern is the possibility of AI generating incorrect, inefficient, or insecure code. Developers may trust AI-generated solutions too much without fully understanding them, which can lead to software bugs and security vulnerabilities.
+
+Another challenge is overdependence on AI tools. If programmers rely too heavily on AI for solving problems, they may gradually weaken important programming, debugging, and analytical skills. This is especially concerning for beginner developers who are still learning fundamental concepts.
+
+There are also ethical and legal concerns related to AI-generated code. Questions about copyright, ownership, and responsibility are becoming more important as AI tools continue to evolve and become more integrated into development workflows.
+
+In addition, companies must think carefully about data privacy and security when using AI systems, especially when sensitive project information is shared with external AI platforms.
+
+**Interpretation:**  
+AI offers significant benefits, but developers and companies must manage its risks carefully to ensure software quality, security, and responsible use.
+
